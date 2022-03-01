@@ -57,11 +57,13 @@ after the respitory dowloaded you cant type this command
 -On `Linux`
 
 ```bash
+cd ./Connect4
 ./install.sh
 ```
 -On `Windows`
 
 ```bash
+cd ./Connect4
 make && make clean
 ```
 
