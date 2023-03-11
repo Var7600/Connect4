@@ -75,6 +75,9 @@ to run the game type
 ./connect4
 ```
 if everything is okay by now you will see the game start enjoy :)
+![Welcome](images/welcome.png)
+![Grid](images/grid.png)
+![End](images/end.png)
 
 #### Feedback
 if you have any problems , suggestions , remarks , contributions you can contact me on github,
